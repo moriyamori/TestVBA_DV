@@ -1,7 +1,7 @@
 # dinosaur
   
 ***使い方***  
-・C:/にtempフォルダを置く  
+・C:/にdinosaurフォルダを置く  
 ・AccessControlledByVBAのVBEを起動して会員管理.accdbを操作する  
   
 ***出来ること***  
